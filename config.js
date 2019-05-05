@@ -27,11 +27,8 @@ module.exports = {
     bio: 'programming innovator doing sustainable things',
     contacts: {
       email: 'contactme@bramkoot.nl',
-      telegram: '#',
       twitter: 'susabram',
       github: 'bramkoot',
-      rss: '#',
-      vkontakte: '#'
     }
   }
 };
