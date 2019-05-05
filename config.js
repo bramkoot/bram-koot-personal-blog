@@ -23,13 +23,13 @@ module.exports = {
   ],
   author: {
     name: 'Bram Koot',
-    photo: '/photo.jpg',
-    bio: 'programming innovation scientsist doing sustainable things',
+    photo: '/media/photo.jpg',
+    bio: 'programming innovator doing sustainable things',
     contacts: {
-      email: '#',
+      email: 'contactme@bramkoot.nl',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'susabram',
+      github: 'bramkoot',
       rss: '#',
       vkontakte: '#'
     }
